@@ -11,23 +11,17 @@ use Acme::CPANModulesUtil::Misc;
 
 my $text = <<'_';
 
-**Data structures**
-
 <pm:Data::Comparator>
 
 <pm:Data::Diff>
 
 <pm:Data::Cmp::Diff>
 
+<pm:Hash::Diff>
 
-**Database schemas**
+<pm:Struct::Diff>
 
-<pm:DBIx::Diff::Schema>
-
-
-**Trees**
-
-TODO
+<pm:Value::Diff>
 
 _
 
